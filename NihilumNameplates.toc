@@ -1,0 +1,10 @@
+## Interface: 120001
+## Title: Nihilum Nameplates
+## Notes: Colors nameplate cast bars and health bars based on interrupt cooldown
+## Author: STRYK
+## Version: 1.0.3
+## IconTexture: Interface\AddOns\NihilumNameplates\icon
+## SavedVariables: NihilumNameplatesDB
+## X-Wago-ID: 56nd2pG9
+## X-Curse-Project-ID: 1485654
+NihilumNameplates.lua

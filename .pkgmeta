@@ -1,0 +1,14 @@
+package-as: NihilumNameplates
+
+enable-nolib-creation: no
+
+ignore:
+  - .git
+  - .github
+  - .pkgmeta
+  - README.md
+  - "*.md"
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
