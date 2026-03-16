@@ -1,3 +1,9 @@
+# 1.0.4
+
+- Fix kick cooldown tracking not syncing on zone/reload
+- Fix cast bar color updates being delayed by one cast
+- Real-time cooldown state computation for instant color changes
+
 # 1.0.3
 
 - Bug Fixes
